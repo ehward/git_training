@@ -1,3 +1,4 @@
 "Hi! I'm Bob. I've been here for a while now." 
 Added second line to Bob.txt as described in the instructions.
 New Bob text interactive rebase.
+more
