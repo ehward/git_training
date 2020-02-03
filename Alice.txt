@@ -7,3 +7,4 @@ Edited in github as described in instructions.
 Edited again to create two conflicts. Fixed conflicts.
 resolution
 push test after error fix.
+History change.
