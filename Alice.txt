@@ -5,3 +5,4 @@ Added more text for Patrick addition.
 Edited in github as described in instructions.
 !github!
 Edited again to create two conflicts. Fixed conflicts.
+resolution
